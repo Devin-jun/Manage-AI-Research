@@ -8,12 +8,11 @@ The skill is based on a lightweight research project management template for com
 
 ```text
 .
-├── manage-ai-research-projects/
-│   ├── SKILL.md
-│   ├── agents/openai.yaml
-│   ├── references/
-│   └── scripts/
-└── AI research工作指南文件目录管理建议.md
+└── manage-ai-research-projects/
+    ├── SKILL.md
+    ├── agents/openai.yaml
+    ├── references/
+    └── scripts/
 ```
 
 The installable skill package is the `manage-ai-research-projects/` directory.
@@ -55,16 +54,14 @@ Then ask Codex to use `$manage-ai-research-projects`.
 
 ## Use From GitHub
 
-After this repository is pushed to GitHub, users can download the repository ZIP or clone it, then copy the `manage-ai-research-projects/` directory into their agent's skills directory.
+Users can download the repository ZIP or clone it, then copy the `manage-ai-research-projects/` directory into their agent's skills directory.
 
 Example:
 
 ```bash
-git clone https://github.com/<owner>/manage-ai-research-projects.git
-cp -R manage-ai-research-projects/manage-ai-research-projects ~/.claude/skills/
+git clone https://github.com/Devin-jun/Manage-AI-Research.git
+cp -R Manage-AI-Research/manage-ai-research-projects ~/.claude/skills/
 ```
-
-Replace `<owner>` with the GitHub user or organization that owns the repository.
 
 ## Capabilities
 
