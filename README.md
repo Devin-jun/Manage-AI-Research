@@ -114,3 +114,7 @@ skill-name/
 ```
 
 `agents/openai.yaml` is optional Codex-facing metadata and does not affect Claude Code compatibility.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
