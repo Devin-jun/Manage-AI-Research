@@ -1,5 +1,7 @@
 # Manage AI Research Projects
 
+Language: English | [简体中文](README.zh-CN.md)
+
 `manage-ai-research-projects` is an Agent Skill for organizing AI-era computational research projects. It helps Claude Code, Codex, and other skills-compatible agents create reproducible project structures, audit existing projects, separate AI-generated drafts from reviewed outputs, and keep scientific results traceable to data, code, parameters, environment, decisions, and manuscript deliverables.
 
 The skill is based on a lightweight research project management template for computational biology, bioinformatics, AI-assisted scientific workflows, RAG/agentic screening projects, model benchmarks, and manuscript-oriented analysis projects.
