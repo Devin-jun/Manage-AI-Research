@@ -99,25 +99,6 @@ PYTHONPYCACHEPREFIX=/tmp/skill_pycache python3 -m py_compile \
   manage-ai-research-projects/scripts/audit_research_project.py
 ```
 
-## 发布说明
-
-如果提交到 skill registry 或 skill hub，指向可安装的 skill 目录：
-
-```text
-manage-ai-research-projects/
-```
-
-这个 skill 遵循 Agent Skills 的常见目录约定：
-
-```text
-skill-name/
-├── SKILL.md
-├── scripts/
-└── references/
-```
-
-`agents/openai.yaml` 是可选的 Codex 元数据，不影响 Claude Code 兼容性。
-
 ## 许可证
 
 MIT License。见 [LICENSE](LICENSE)。

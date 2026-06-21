@@ -99,25 +99,6 @@ PYTHONPYCACHEPREFIX=/tmp/skill_pycache python3 -m py_compile \
   manage-ai-research-projects/scripts/audit_research_project.py
 ```
 
-## Publishing Notes
-
-For skill registries or hubs, point to the installable skill directory:
-
-```text
-manage-ai-research-projects/
-```
-
-The skill follows the Agent Skills directory convention:
-
-```text
-skill-name/
-├── SKILL.md
-├── scripts/
-└── references/
-```
-
-`agents/openai.yaml` is optional Codex-facing metadata and does not affect Claude Code compatibility.
-
 ## License
 
 MIT License. See [LICENSE](LICENSE).
