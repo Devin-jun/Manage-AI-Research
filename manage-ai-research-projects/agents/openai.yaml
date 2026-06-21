@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage AI Research Projects"
+  short_description: "Structure and audit AI-era research projects"
+  default_prompt: "Use $manage-ai-research-projects to create or audit a reproducible AI-assisted research project."

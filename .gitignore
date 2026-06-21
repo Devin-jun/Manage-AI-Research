@@ -1,0 +1,24 @@
+.DS_Store
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local packaging artifacts
+dist/
+*.zip
+*.tar.gz
+
+# Local test projects
+demo_project/
+demo_ai_research_project/
+
+# Environment files
+.env
+.venv/
+venv/
