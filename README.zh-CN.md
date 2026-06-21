@@ -6,6 +6,10 @@
 
 这个 skill 基于一个轻量级科研项目管理模板，适合计算生物学、生物信息学、AI 辅助科研工作流、RAG/agentic screening 项目、模型 benchmark，以及面向论文或汇报交付的分析项目。
 
+## 工作流
+
+![工作流概览](workflow.png)
+
 ## 仓库结构
 
 ```text

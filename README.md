@@ -6,6 +6,10 @@ Language: English | [简体中文](README.zh-CN.md)
 
 The skill is based on a lightweight research project management template for computational biology, bioinformatics, AI-assisted scientific workflows, RAG/agentic screening projects, model benchmarks, and manuscript-oriented analysis projects.
 
+## Workflow
+
+![Workflow overview](workflow.png)
+
 ## Repository Layout
 
 ```text
